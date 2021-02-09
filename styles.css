@@ -43,7 +43,7 @@ h2:hover{
 
 .nav{
     width: 320px;
-    margin-top: 40px;
+	margin-top: 40px;
     margin-left: 50px;
 }
 
@@ -104,7 +104,21 @@ ul{
 }
 
 .footer{
-    margin-top: 100px;
+    margin-top: 100px; 
+}
+
+.nav1{
+    margin-left: 50px;
+}
+
+.nav2{
+    margin-top: 40px;
+    margin-left: 300px;
+}
+
+.nav3{
+    margin-top: 40px;
+    margin-left: 400px;
 }
 
 .copy{
