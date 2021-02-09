@@ -1,0 +1,116 @@
+@font-face{
+    src: url(./Spectral-Medium.ttf);
+    font-family: "Spectral Medium";
+}
+
+@font-face{
+    src: url(./Spectral-MediumItalic.ttf);
+    font-family: "Spectral MediumItalic";
+}
+
+body{
+    font-family: "Spectral MediumItalic";
+}
+
+.header{
+    width: 370px;
+    margin-left: 45px;
+    margin-top: 40px;
+}
+
+h1{
+    color: rgb(214, 34, 34);
+    font-size: 48px;
+}
+
+h1:hover{
+	font-size: 50px;
+	font-family: "Spectral Medium";
+}
+
+h2{
+    color: rgb(81, 73, 129);
+    font-size: 46px;
+}
+
+h2:hover{
+    font-family: "Spectral Medium";
+}
+
+.menu{
+    margin-top: 70px;
+}
+
+.nav{
+    width: 320px;
+	margin-top: 40px;
+    margin-left: 50px;
+}
+
+a{
+    box-shadow: rosybrown 8px 8px 8px;
+    border-radius: 20px;
+    padding: 7px;
+    font-size: 26px;
+    text-decoration: none;
+    background-color:rgb(81, 73, 129);
+    color: white;
+}
+
+a:hover{
+    font-size: 28px;
+}
+
+.image{
+    position: absolute;
+    left: 500px;
+    top: 30px;
+}
+
+img{
+    border-radius: 100px;
+    box-shadow: rosybrown 10px 10px 10px; 
+}
+
+.body{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+h3{
+    font-size: 22px;
+    color: rgb(141, 35, 35);
+}
+
+p{
+    font-size: 16px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 30px;
+    box-shadow: rosybrown 9px 9px 9px 7px; 
+    color:  rgb(81, 73, 129);
+    font-weight: bold;
+}
+
+ul{
+    font-size: 16px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 30px;
+    box-shadow: rosybrown 9px 9px 9px 7px; 
+    color:  rgb(81, 73, 129);
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.footer{
+    margin-top: 70px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.copy{
+    color:brown;
+    text-align: center;
+    margin-top: 60px;
+}
