@@ -142,9 +142,9 @@ ul{
 }
 
 .site a{
-    box-shadow: rosybrown 8px 8px 8px;
-    border-radius: 20px;
-    padding: 7px;
+    box-shadow: rosybrown 6px 6px 6px;
+    border-radius: 10px;
+    padding: 4px;
     font-size: 16px;
     text-decoration: none;
     background-color:rgb(81, 73, 129);
