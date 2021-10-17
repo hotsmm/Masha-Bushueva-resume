@@ -110,10 +110,11 @@ ul{
     width: 800px;
     text-align: center;
     align-items: center;
+    margin-left: 30px;
 }
 
 .nav1{
-    margin-left: 50px;
+    margin-left: 20px;
     margin-right: 30px;
     justify-content: space-around;
 }
