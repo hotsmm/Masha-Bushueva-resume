@@ -107,11 +107,10 @@ ul{
     margin-top: 100px; 
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
 }
 
 .nav1{
-    /*margin-left: 20px;
+    margin-left: 20px;
     margin-right: 30px;
     justify-content: space-around;
 }
@@ -126,7 +125,7 @@ ul{
     margin-left: 20px;
     margin-right: 30px;
     justify-content: space-around;
-}*/
+}
 
 .copy{
     color:brown;
