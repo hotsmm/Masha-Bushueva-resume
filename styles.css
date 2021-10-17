@@ -107,23 +107,23 @@ ul{
     margin-top: 100px; 
     display: flex;
     flex-direction: row;
-    margin: 0 auto;
 }
 
 .nav1{
-   /* margin-left: 50px;*/
+    margin-left: 20px;
+    margin-right: 30px;
     justify-content: space-around;
 }
 
 .nav2{
-    /*margin-top: 40px;
-    margin-left: 150px;*/
+    margin-left: 20px;
+    margin-right: 30px;
     justify-content: space-around;
 }
 
 .nav3{
-    /*margin-top: 40px;
-    margin-left: 250px;*/
+    margin-left: 20px;
+    margin-right: 30px;
     justify-content: space-around;
 }
 
