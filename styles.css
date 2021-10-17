@@ -105,20 +105,24 @@ ul{
 
 .footer{
     margin-top: 100px; 
+    display: flex;
 }
 
 .nav1{
-    margin-left: 50px;
+   /* margin-left: 50px;*/
+    justify-content: space-around;
 }
 
 .nav2{
-    margin-top: 40px;
-    margin-left: 150px;
+    /*margin-top: 40px;
+    margin-left: 150px;*/
+    justify-content: space-around;
 }
 
 .nav3{
-    margin-top: 40px;
-    margin-left: 250px;
+    /*margin-top: 40px;
+    margin-left: 250px;*/
+    justify-content: space-around;
 }
 
 .copy{
