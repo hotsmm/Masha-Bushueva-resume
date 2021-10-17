@@ -131,6 +131,7 @@ ul{
     color:brown;
     text-align: center;
     margin-top: 100px;
+    display: flex;
 }
 
 .header7{
