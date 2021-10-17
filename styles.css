@@ -106,6 +106,7 @@ ul{
 .footer{
     margin-top: 100px; 
     display: flex;
+    flex-direction: row;	
 }
 
 .nav1{
@@ -114,8 +115,8 @@ ul{
 }
 
 .nav2{
-    /*margin-top: 40px;*/
-    margin-left: 150px;
+    /*margin-top: 40px;
+    margin-left: 150px;*/
     justify-content: space-around;
 }
 
