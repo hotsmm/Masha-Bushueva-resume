@@ -142,16 +142,16 @@ ul{
 }
 
 .site a{
-    box-shadow: rosybrown 6px 6px 6px;
+    /*box-shadow: rosybrown 6px 6px 6px;
     border-radius: 10px;
     padding: 4px;
-    font-size: 14px;
+    font-size: 14px;*/
     text-decoration: none;
-    background-color:rgb(81, 73, 129);
+    /*background-color:rgb(81, 73, 129);
     color: white; 
     font-weight: normal;
 }	
 
 .site a:hover{
     display: none;
-}
+}*/
