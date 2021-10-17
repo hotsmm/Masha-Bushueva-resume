@@ -43,7 +43,7 @@ h2:hover{
 
 .nav{
     width: 320px;
-	margin-top: 40px;
+    margin-top: 40px;
     margin-left: 50px;
 }
 
@@ -130,8 +130,7 @@ ul{
 .copy{
     color:brown;
     text-align: center;
-    margin-top: 100px;
-    display: flex;
+    margin-top: 100px; 
 }
 
 .header7{
