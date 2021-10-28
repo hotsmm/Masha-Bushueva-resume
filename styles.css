@@ -143,13 +143,13 @@ ul{
 }
 
 .site {
-    box-shadow: rgba(81, 73, 129, 0.5) 6px 6px 6px;
+    box-shadow: rgba(81, 73, 129, 0.7) 6px 6px 6px;
     border-radius: 10px;
     padding: 4px;
-    font-size: 16px;
+    font-size: 18px;
     text-decoration: none;
     background-color: white;
-    color: rosybrown; 
+    color: rgb(141, 35, 35); 
     font-weight: normal;
 }	
 
