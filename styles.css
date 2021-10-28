@@ -151,6 +151,7 @@ ul{
     background-color: white;
     color: rgb(141, 35, 35); 
     font-weight: normal;
+    border-radius: 20px;
 }	
 
 .site a:hover{
