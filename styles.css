@@ -142,7 +142,7 @@ ul{
     margin-left: 50px;
 }
 
-.site a{
+.site {
     box-shadow: rgb(81, 73, 129) 6px 6px 6px;
     border-radius: 10px;
     padding: 4px;
@@ -153,6 +153,6 @@ ul{
     font-weight: normal;
 }	
 
-.site a:hover{*/
+.site a:hover{
     display: none;
 }
