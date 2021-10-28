@@ -143,10 +143,10 @@ ul{
 }
 
 .site {
-    box-shadow: rgb(81, 73, 129) 6px 6px 6px;
+    box-shadow: rgba(81, 73, 129, 0.5) 6px 6px 6px;
     border-radius: 10px;
     padding: 4px;
-    font-size: 14px;
+    font-size: 16px;
     text-decoration: none;
     background-color: white;
     color: rosybrown; 
