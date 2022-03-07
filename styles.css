@@ -143,8 +143,8 @@ ul{
 }
 
 .site {
-    box-shadow: rgba(81, 73, 129, 0.7) 6px 6px 6px;
-    border-radius: 10px;
+   /* box-shadow: rgba(81, 73, 129, 0.7) 6px 6px 6px;
+    border-radius: 10px;*/
     padding: 4px;
     font-size: 18px;
     text-decoration: none;
